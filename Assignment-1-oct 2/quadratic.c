@@ -1,8 +1,6 @@
 /*  Program:Evaluating the quadratic equation
     Author:Niby Vijayan
     Date:02-10-2024
-    Input:coefficients entered by the user
-    Output:roots of quadratic quation
 */
 #include<stdio.h>
 #include<math.h>

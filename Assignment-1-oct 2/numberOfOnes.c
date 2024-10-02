@@ -1,8 +1,6 @@
 /*  Program: Counting Number of 1's in binary Representation of the number.
     Author: Niby Vijayan
     Date: 02-10-2024
-    Input:An integer number entered by the user.
-    Output:The number of 1's present in the binary representation of the input number.
 */
 #include<stdio.h>
 void countingNumberOfOnes(int number);
